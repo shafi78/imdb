@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/imdb/static/css/main.5c23e621.css",
+    "main.js": "/imdb/static/js/main.2d44455f.js",
+    "static/js/787.741971bc.chunk.js": "/imdb/static/js/787.741971bc.chunk.js",
+    "static/media/revicons.eot": "/imdb/static/media/revicons.a77de540a38981833f9e.eot",
+    "static/media/revicons.ttf": "/imdb/static/media/revicons.57fd05d4ae650374c8de.ttf",
+    "static/media/revicons.woff": "/imdb/static/media/revicons.e8746a624ed098489406.woff",
+    "index.html": "/imdb/index.html",
+    "main.5c23e621.css.map": "/imdb/static/css/main.5c23e621.css.map",
+    "main.2d44455f.js.map": "/imdb/static/js/main.2d44455f.js.map",
+    "787.741971bc.chunk.js.map": "/imdb/static/js/787.741971bc.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5c23e621.css",
+    "static/js/main.2d44455f.js"
+  ]
+}
